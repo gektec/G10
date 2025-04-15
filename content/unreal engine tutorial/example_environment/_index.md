@@ -1,26 +1,21 @@
-+++
-weight = 100
-date = "2023-05-03T22:37:22+01:00"
-draft = true
-author = "Changyu Li"
-title = "Example Virtual Environment"
-icon = "rocket_launch"
-toc = true
-description = "A quickstart guide to creating new content in Lotus Docs"
-publishdate = "2023-05-03T22:37:22+01:00"
-tags = ["Beginners"]
-+++
-Please use your mouse rotate around following scene. Use the scrolling wheel to zoom in or out.
+---
+title: "Example Virtual Environment"
+date: 2025-04-06T23:28:24+08:00
+tags: []
+series: []
+featured: true
+---
+Please use a computer to operate. Use your mouse rotate around following scene. Use the scrolling wheel to zoom in or out.
 
 It may take at most a minute to load the model. Some visual effects, such as ray tracing, are not able to be represented due to performance limitations.
 
 This is only a test environment. We can not distribute the full asset until our stakeholders have released their work.
 
-{{< threejs version="0.160.0" id="hello" src="/example_environment/ward.js" >}}
+{{< threejs version="0.160.0" id="hello" src="ward.js" >}}
 
 When it is deployed on the screen, it should looks like this:
 
-![Deployed Environment](/G10beta/images/Deployed.jpg)
+![Deployed Environment](/G10/images/Deployed.jpg)
 
 
 ## References

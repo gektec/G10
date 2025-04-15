@@ -1,13 +1,13 @@
 # User Manual for Open Educational Resource (OER)
 
 ## 1. Introduction
-The Open Educational Resource (OER) is an online learning resource designed to provide educational content related to virtual production. It is accessible via a simple web [link](https://gektec.github.io/G10beta/index.html).
+The Open Educational Resource (OER) is an online learning resource designed to provide educational content related to virtual production. It is accessible via a simple web [link](https://gektec.github.io/G10/index.html).
 
 ---
 
 ## 2. Accessing the OER
 ### **Step 1: Open the Link**
-1. Click on the provided OER [link](https://gektec.github.io/G10beta/index.html). or copy and paste it into your browser's address bar.
+1. Click on the provided OER [link](https://gektec.github.io/G10/index.html). or copy and paste it into your browser's address bar.
 2. Press **Enter** to load the webpage.
 
 ### **Step 2: Explore the Content**

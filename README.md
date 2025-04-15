@@ -2,7 +2,9 @@
 
 This is the repository for the University of Nottingham China COMP2043.GRP Course Team 10 Group Project.
 
-**[View our website](https://gektec.github.io/G10beta/)**
+We are currently hosting our OER (tutorials) in this repository, and we plan to upload our Unreal Engine assets upon the completion of our collaborative film in 2026.
+
+**[View our website](https://gektec.github.io/G10/)**
 
 <img src="./Documents/Poster.png" alt="Team Poster" style="width:50%;">
 

@@ -1,22 +1,17 @@
-+++
-weight = 100
-date = "2023-05-03T22:37:22+01:00"
-draft = true
-author = "Changyu Li"
-title = "Quickstart"
-icon = "rocket_launch"
-toc = true
-description = "A quickstart guide to creating new content in Lotus Docs"
-publishdate = "2023-05-03T22:37:22+01:00"
-tags = ["Beginners"]
-+++
+---
+title: "Virtually Yours: Virtual Production Open Educational Resources"
+date: 2025-02-28T19:40:44+08:00
+tags: []
+series: []
+featured: true
+---
 **Virtual production** mixes traditional filming with digital techniques like real‐time rendering and motion capture to create interactive, realistic digital environments for film and TV.
 
 This resource provides comprehensive guidance on setting up Unreal Engine and developing immersive virtual production environments. Our tutorials and demos are designed for both beginners and experienced developers, covering essential tools, techniques, and best practices to bring virtual production to life.
 
 ### Interactive Example Environment
 
-For a practical demonstration of our work, please explore our [interactive example environment](https://gektec.github.io/G10beta/unreal-engine-tutorial/example_environment/). 
+For a practical demonstration of our work, please explore our [interactive example environment](https://gektec.github.io/G10/unreal-engine-tutorial/example_environment/). 
 
 
 ## What You’ll Learn
