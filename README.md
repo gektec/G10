@@ -2,7 +2,7 @@
 
 This is the repository for the University of Nottingham China COMP2043.GRP Course Team 10 Group Project.
 
-**[View our website](https://gektec.github.io/G10/)**
+**[View our website](https://gektec.github.io/G10beta/)**
 
 <img src="./Documents/Poster.png" alt="Team Poster" style="width:50%;">
 

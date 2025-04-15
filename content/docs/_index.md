@@ -16,7 +16,7 @@ This resource provides comprehensive guidance on setting up Unreal Engine and de
 
 ### Interactive Example Environment
 
-For a practical demonstration of our work, please explore our [interactive example environment](https://gektec.github.io/G10/unreal-engine-tutorial/example_environment/). 
+For a practical demonstration of our work, please explore our [interactive example environment](https://gektec.github.io/G10beta/unreal-engine-tutorial/example_environment/). 
 
 
 ## What You’ll Learn

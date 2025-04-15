@@ -1,6 +1,5 @@
 languageCode = 'en-uk'
-title = 'G10 OER'
-# theme = 'hugo-theme-relearn'
+title = 'G10 OER beta'
 
 [module]
     # uncomment line below for temporary local development of module
