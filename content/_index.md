@@ -9,6 +9,8 @@ featured: true
 
 This resource provides comprehensive guidance on setting up Unreal Engine and developing immersive virtual production environments. Our tutorials and demos are designed for both beginners and experienced developers, covering essential tools, techniques, and best practices to bring virtual production to life.
 
+**Great news**: Our paper regarding this OER is currently under review.
+
 ### Interactive Example Environment
 
 For a practical demonstration of our work, please explore our [interactive example environment](https://gektec.github.io/G10/unreal-engine-tutorial/example_environment/). 
